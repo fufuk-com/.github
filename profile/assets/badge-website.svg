@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="34" viewBox="0 0 264 34" role="img" aria-label="OFFICIAL WEBSITE: fufuk.com">
+  <title>OFFICIAL WEBSITE: fufuk.com</title>
+  <defs>
+    <clipPath id="clip">
+      <rect width="264" height="34" rx="6" ry="6" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="158" height="34" fill="#1e293b" />
+    <rect x="158" y="0" width="106" height="34" fill="#00f2fe" />
+    <g transform="translate(12, 9)" fill="none" stroke="#00f2fe" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="8" cy="8" r="6.5" />
+      <ellipse cx="8" cy="8" rx="3" ry="6.5" />
+      <line x1="1.8" y1="8" x2="14.2" y2="8" />
+    </g>
+    <text x="93" y="21" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#e2e8f0" letter-spacing="0.8">OFFICIAL WEBSITE</text>
+    <text x="211" y="21.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#0f172a" letter-spacing="0.3">fufuk.com</text>
+  </g>
+  <rect x="0.5" y="0.5" width="263" height="33" rx="5.5" ry="5.5" fill="none" stroke="#334155" stroke-width="1" />
+</svg>
